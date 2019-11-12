@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-inline-calender/static/css/main.9d8cf666.chunk.css",
+    "main.js": "/react-inline-calender/static/js/main.43d8c092.chunk.js",
+    "main.js.map": "/react-inline-calender/static/js/main.43d8c092.chunk.js.map",
+    "runtime~main.js": "/react-inline-calender/static/js/runtime~main.58c34e5b.js",
+    "runtime~main.js.map": "/react-inline-calender/static/js/runtime~main.58c34e5b.js.map",
+    "static/css/2.1e9ad0bf.chunk.css": "/react-inline-calender/static/css/2.1e9ad0bf.chunk.css",
+    "static/js/2.5bdefefb.chunk.js": "/react-inline-calender/static/js/2.5bdefefb.chunk.js",
+    "static/js/2.5bdefefb.chunk.js.map": "/react-inline-calender/static/js/2.5bdefefb.chunk.js.map",
+    "index.html": "/react-inline-calender/index.html",
+    "precache-manifest.c1c77dafdde0c49f883eea7e27695051.js": "/react-inline-calender/precache-manifest.c1c77dafdde0c49f883eea7e27695051.js",
+    "service-worker.js": "/react-inline-calender/service-worker.js",
+    "static/css/2.1e9ad0bf.chunk.css.map": "/react-inline-calender/static/css/2.1e9ad0bf.chunk.css.map",
+    "static/css/main.9d8cf666.chunk.css.map": "/react-inline-calender/static/css/main.9d8cf666.chunk.css.map",
+    "static/media/logo.svg": "/react-inline-calender/static/media/logo.5d5d9eef.svg"
+  }
+}
